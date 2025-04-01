@@ -12,6 +12,10 @@ SecureCredentials is a C# library that provides methods for securely hashing and
 ## Installation
 
 To use the SecureCredentials library, add it to your project via NuGet:
+```
+dotnet add package SecureCredentials --version 2.0.1
+```
+You can find package details over here : [SecureCredentials](https://www.nuget.org/packages/SecureCredentials)
 ## Usage
 
 ### Hashing a Password
