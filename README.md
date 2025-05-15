@@ -28,6 +28,10 @@ To verify a password against a stored hash, use the `VerifyHashPassword` method:
 
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
 
+## What next?
+
+Well, this package will get new udpate which will support the encrytion/decryption of API key's or any string without any salt value.
+
 ## License
 
 This project is licensed under the MIT License.
